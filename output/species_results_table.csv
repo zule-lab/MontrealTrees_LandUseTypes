@@ -1,0 +1,72 @@
+Species,Correlation (r2),P value,Green Space Type,Total individuals
+Thuja occidentalis,0.58,0.0001,Residential,10046
+Picea abies,0.48,0.0001,Residential,228
+Pyrus communis,0.45,0.0001,Residential,203
+Syringa reticulata,0.44,0.0001,Residential,377
+Juniperus communis,0.42,0.0001,Residential,101
+Malus spp.,0.39,0.0001,Residential,294
+Acer platanoides,0.38,0.0001,Residential,2049
+Prunus virginiana,0.37,0.0001,Residential,360
+Abies balsamea,0.37,0.0001,Residential,37
+Syringa vulgaris,0.36,0.0001,Residential,1306
+Magnolia kobus,0.35,0.0001,Residential,38
+Hydrangea paniculata,0.35,0.0001,Residential,92
+Prunus cerasus,0.34,0.0001,Residential,60
+Malus hupehensis,0.33,0.0001,Residential,101
+Acer saccharinum,0.33,0.0001,Residential,1073
+Betula pendula,0.31,0.0001,Residential,22
+Cotinus coggygria,0.31,0.0001,Residential,68
+Gleditsia triacanthos,0.31,0.0001,Public Right-Of-Way,725
+Sorbus aucuparia,0.31,0.0001,Residential,72
+Syringa pubescens,0.30,0.0001,Residential,78
+Taxus canadensis,0.30,0.0001,Residential,137
+Taxus cuspidata,0.30,0.0001,Residential,23
+Malus sylvestris,0.30,0.0001,Residential,77
+Ginkgo biloba,0.30,0.0001,Public Right-Of-Way,169
+Acer palmatum,0.29,0.0001,Residential,72
+Pinus strobus,0.29,0.0001,Residential,71
+Salix integra,0.28,0.0001,Residential,40
+Magnolia liliiflora,0.28,0.0001,Residential,14
+Morus alba,0.27,0.0001,Residential,79
+Picea glauca,0.26,0.0001,Residential,144
+Philadelphus coronarius,0.26,0.0001,Residential,24
+Acer negundo,0.25,0.0001,Residential,1123
+Fraxinus americana,0.25,0.0001,Residential,136
+Cornus alba,0.24,0.0001,Residential,11
+Juniperus scopulorum,0.24,0.0001,Residential,70
+Picea pungens,0.23,0.0001,Residential,448
+Morus nigra,0.23,0.0001,Residential,12
+Ulmus pumila,0.23,0.0001,Residential,654
+Ulmus americana,0.23,0.0001,Residential,288
+Malus baccata,0.22,0.0001,Residential,27
+Tilia cordata,0.22,0.0001,Public Right-Of-Way,437
+Prunus avium,0.21,0.0001,Residential,74
+Picea rubens,0.20,0.0001,Residential,24
+Acer freemanii,0.20,0.0001,Residential,155
+Prunus persica,0.19,0.0001,Residential,13
+Ulmus x Morton,0.19,0.0002,Public Right-Of-Way,71
+Quercus macrocarpa,0.19,0.0001,Residential,80
+Prunus cerasifera,0.19,0.0001,Residential,25
+Morus rubra,0.18,0.0003,Residential,35
+Pinus banksiana,0.17,0.0001,Residential,10
+Betula papyrifera,0.16,0.0001,Residential,35
+Fraxinus pennsylvanica,0.16,0.0002,Residential,466
+Gymnocladus dioicus,0.16,0.0002,Public Right-Of-Way,163
+Callitropsis nootkatensis,0.16,0.0001,Residential,9
+Acer tataricum,0.15,0.0004,Residential,78
+Syringa josikaea,0.15,0.0005,Residential,8
+Amelanchier canadensis,0.15,0.0007,Residential,108
+Weigela florida,0.15,0.0002,Residential,14
+Celtis occidentalis,0.15,0.0004,Residential,305
+Rhamnus cathartica,0.15,0.0001,Residential,654
+Lonicera tatarica,0.15,0.0003,Residential,64
+Ulmus glabra,0.15,0.0003,Residential,52
+Aesculus hippocastanum,0.14,0.0008,Residential,47
+Sambucus canadensis,0.13,0.0008,Residential,18
+Rosa gallica,0.13,0.0005,Residential,17
+Prunus domestica,0.13,0.0004,Residential,164
+Salix babylonica,0.12,0.0005,Residential,17
+Viburnum trilobum,0.12,0.0003,Residential,8
+Picea laxa,0.11,0.0001,Residential,19
+Rosa canina,0.10,0.0002,Residential,41
+Forsythia viridissima,0.09,0.0005,Residential,27
